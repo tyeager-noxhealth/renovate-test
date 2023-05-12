@@ -5,7 +5,7 @@
   "dependencies": {
     "rxjs": "6.6.7",
     "core-js": "2.6.12",
-    "zone.js": "0.8.29",
+    "zone.js": "0.13.0",
     "jasmine-core": "2.99.1",
     "@angular/core": "7.2.16",
     "@angular/http": "7.2.16",
@@ -17,7 +17,7 @@
     "web-animations-js": "2.3.2",
     "@angular/animations": "7.2.16",
     "@angular/platform-browser": "7.2.16",
-    "angular-in-memory-web-api": "0.6.1",
+    "angular-in-memory-web-api": "0.16.0",
     "@angular/platform-browser-dynamic": "7.2.16"
   },
   "scripts": {
